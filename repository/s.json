@@ -14,7 +14,7 @@
 			"name": "Sail Color Scheme",
 			"details": "https://github.com/dennistimmermann/sail-scheme",
 			"labels": ["color scheme"],
-			"releases": [s
+			"releases": [
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/dennistimmermann/sail-scheme/tree/master"
