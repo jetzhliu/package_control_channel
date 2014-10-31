@@ -14,7 +14,7 @@
 			"name": "Sail Color Scheme",
 			"details": "https://github.com/dennistimmermann/sail-scheme",
 			"labels": ["color scheme"],
-			"releases": [
+			"releases": [s
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/dennistimmermann/sail-scheme/tree/master"
@@ -1641,6 +1641,16 @@
 				{
 					"sublime_text": "<3000",
 					"details": "https://github.com/berendbaas/sublime_splittobuffer/tree/master"
+				}
+			]
+		},
+		{
+			"name": "Split and merge view",
+			"details": "https://github.com/jetzhliu/split_and_merge_view",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/jetzhliu/split_and_merge_view/tags"
 				}
 			]
 		},
