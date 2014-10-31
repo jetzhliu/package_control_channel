@@ -1635,22 +1635,22 @@
 			]
 		},
 		{
-			"name": "Split To Buffer",
-			"details": "https://github.com/berendbaas/sublime_splittobuffer",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"details": "https://github.com/berendbaas/sublime_splittobuffer/tree/master"
-				}
-			]
-		},
-		{
 			"name": "Split and merge view",
 			"details": "https://github.com/jetzhliu/split_and_merge_view",
 			"releases": [
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/jetzhliu/split_and_merge_view/tags"
+				}
+			]
+		},
+		{
+			"name": "Split To Buffer",
+			"details": "https://github.com/berendbaas/sublime_splittobuffer",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"details": "https://github.com/berendbaas/sublime_splittobuffer/tree/master"
 				}
 			]
 		},
